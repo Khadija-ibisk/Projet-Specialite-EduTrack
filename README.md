@@ -69,7 +69,7 @@ edutrack/
 
 ---
 
-## 📊 Fonctionnalités — Conformité Énoncé
+## 📊 Fonctionnalités
 
 ### 2.1 Importation et Gestion des Données ✅
 - Import **CSV et Excel** — étudiants, notes, absences, **retards**
@@ -201,7 +201,7 @@ alertes         → alertes pédagogiques générées
 
 ---
 
-## ✅ Tableau de Conformité Énoncé
+## ✅ Tableau d'exigence
 
 | Exigence | Statut |
 |----------|--------|
@@ -253,4 +253,3 @@ alertes         → alertes pédagogiques générées
 ---
 
 *EduTrack Analytics v2.1 — MAROC YNOV CAMPUS 2024-2025*
-*Projet Spé DATA — Conforme 100% à l'énoncé*
