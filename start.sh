@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
-# EduTrack Analytics v2.1 — Script de démarrage
-# MAROC YNOV CAMPUS — Projet Spé DATA 2024-2025
+# EduTrack Analytics  — Script de démarrage
+# MAROC YNOV CAMPUS — Projet Spé DATA 2026
 # ============================================================
 
 set -e
@@ -9,7 +9,7 @@ cd "$(dirname "$0")"
 
 echo ""
 echo "╔══════════════════════════════════════════╗"
-echo "║      EduTrack Analytics  v2.1            ║"
+echo "║      EduTrack Analytics                  ║"
 echo "║      MAROC YNOV CAMPUS                   ║"
 echo "╚══════════════════════════════════════════╝"
 echo ""

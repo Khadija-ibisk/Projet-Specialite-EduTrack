@@ -1,6 +1,6 @@
-# 📊 EduTrack Analytics — v2.1
+# 📊 EduTrack Analytics
 ## Plateforme d'Analyse de Performance des Étudiants
-**MAROC YNOV CAMPUS — Projet Spé DATA 2024-2025**
+**MAROC YNOV CAMPUS — Projet Spé DATA 2026**
 
 ---
 
@@ -252,4 +252,4 @@ alertes         → alertes pédagogiques générées
 
 ---
 
-*EduTrack Analytics v2.1 — MAROC YNOV CAMPUS 2024-2025*
+*EduTrack Analytics  — MAROC YNOV CAMPUS 2026*

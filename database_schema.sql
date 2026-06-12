@@ -1,7 +1,7 @@
 -- ============================================================
--- EduTrack Analytics v2.1 — Schéma de Base de Données
+-- EduTrack Analytics  — Schéma de Base de Données
 -- Compatible SQLite · PostgreSQL · MySQL
--- MAROC YNOV CAMPUS — Projet Spé DATA 2024-2025
+-- MAROC YNOV CAMPUS — Projet Spé DATA 2026
 -- ============================================================
 
 -- Utilisateurs et authentification
